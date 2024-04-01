@@ -1,0 +1,106 @@
+
+body
+{
+    background-color: rgba(238, 238, 238, 0.747);
+    background-image: url("insta2.png");
+    background-repeat: no-repeat;
+    background-size: 350px 550px;
+    background-position: 350px 20px; 
+    
+}
+div#d1
+{
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    color: silver;
+}
+div#d2
+{
+    background-color:  rgb(255, 255, 255);
+    position: relative;
+}
+h3{
+    font-size:xx-large;
+   font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+}
+form#f1
+{
+    text-align: center;
+    height: 350px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    bottom :250px;
+    right: 300px;
+    padding: 15px;
+    border: 1px solid;
+    border-color: silver;
+}
+input[type="text"],input[type="password"],input[type="button"]
+{
+    display: block;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+    border:1px solid;
+    border-color: silver;
+}
+a#a1
+{
+    display: block;
+    padding: 5px;
+}
+a#a2
+{
+    font-size: small;
+    display: block;
+    padding: 5px;
+}
+#B1
+{
+    width: 275px;
+    color: white;
+    background-color: skyblue;
+}
+img#img1
+{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 50px;
+    bottom:30px;
+}
+form#f2
+{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    position: fixed;
+    bottom :185px;
+    right: 310px;
+    width: 290px;
+    border: solid 1px;
+    border-color: silver;
+    margin: -10px;
+    padding: 20px;
+}
+div#d3{
+    background-color: rgb(241, 234, 240);
+    position: fixed;
+    bottom: 70px;
+    right:370px;
+    text-align: center;
+    font-size:smaller;
+}
+input[type="submit"]
+{
+    background-color: black;
+    color: cornsilk;
+    font-style: oblique;
+    border: solid 2px;
+    border-color: black;
+    border-style:hidden;
+    height: 40px;
+    width: 100px;
+}
+ 
